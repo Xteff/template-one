@@ -1,1 +1,1 @@
-# temlate-one
+# template-one
